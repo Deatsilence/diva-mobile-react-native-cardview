@@ -38,8 +38,7 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "update-patch": "npm version patch",
-    "publish": "npm publish"
+    "update-patch": "npm version patch"
   },
   "peerDependencies": {
     "react-native": "^0.73.0"
