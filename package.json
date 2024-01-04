@@ -1,19 +1,19 @@
 {
-  "name": "react-native-cardview",
+  "name": "diva-mobile-react-native-cardview",
   "description": "A react native card view",
   "main": "index.js",
   "types": "index.d.ts",
   "author": "Kishan Vaghela (kishanjvaghela@gmail.com)",
   "license": "MIT",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kishanjvaghela/react-native-cardview.git"
+    "url": "https://github.com/Deatsilence/diva-mobile-react-native-cardview.git"
   },
   "bugs": {
-    "url": "https://github.com/Kishanjvaghela/react-native-cardview/issues"
+    "url": "https://github.com/Deatsilence/diva-mobile-react-native-cardview/issues"
   },
-  "homepage": "https://github.com/Kishanjvaghela/react-native-cardview",
+  "homepage": "https://github.com/Deatsilence/diva-mobile-react-native-cardview",
   "keywords": [
     "react",
     "react-native",
@@ -42,7 +42,7 @@
     "publish": "npm publish"
   },
   "peerDependencies": {
-    "react-native": "^0.56.0"
+    "react-native": "^0.73.0"
   },
   "dependencies": {
     "prop-types": "^15.6.0"
